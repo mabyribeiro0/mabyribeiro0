@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub!
 ## Sobre mim
 
 - 🎓 Estudante do Curso Técnico de Informática do Colégio Augustos.
-- 📅 [Sua Idade]15 anos.
+- 📅 [Sua Idade]16 anos.
 - 🚀 Aprendendo HTML e CSS.
 - 🎯 Interessado em desenvolvimento web e novas tecnologias.
 - 📫 Entre em contato: [amabillyisabella6@gmail.com].
